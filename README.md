@@ -7,8 +7,8 @@ content and print the first n(customizable) word matches with its appear times i
 
 ### WordFrequencyStatitics:
 Complete with customized class.
+Compatible with Python2.
 
 ### WordFrequencyStatitics_v2:
 Complete with collections.Counter class.
-
-Compatible with Python2.
+Only function on Python v3.1 above.
