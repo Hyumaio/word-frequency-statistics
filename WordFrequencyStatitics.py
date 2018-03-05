@@ -1,7 +1,7 @@
 import io
 import re
 
-FILE_PATH = r'C:\Users\supermiao\Documents\~\md\David Goodger.md'
+FILE_PATH = r'.\multiverse.txt'
 REGULAR_EXPRESS = r'[A-Za-z]+'
 
 

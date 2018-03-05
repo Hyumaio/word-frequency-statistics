@@ -1,0 +1,395 @@
+
+Multiverse
+From Wikipedia, the free encyclopedia
+For other uses, see Multiverse (disambiguation).
+Part of a series on
+Physical cosmology
+Full-sky image derived from nine years' WMAP data
+Big Bang · Universe
+Age of the universe
+Chronology of the universe
+Early universe[show]
+Expansion · Future[show]
+Components · Structure[show]
+Experiments[show]
+Scientists[show]
+Subject history[show]
+Category Category
+Ilc 9yr moll4096.png Cosmology portal
+Crab Nebula.jpg Astronomy portal
+v t e
+The multiverse (or meta-universe) is a hypothetical set of infinite possible universes including the universe which we live in. Together, these universes comprise everything that exists: the entirety of space, time, matter, energy, the physical laws and the constants that describe them.[1][2][3][4] The miscellaneous distinct universes within the multiverse are called the "parallel universes", "other universes" or "alternative universes".[5][6][7]
+
+Contents
+1	History of the concept
+2	Brief explanation
+3	Search for evidence
+4	Proponents and skeptics
+5	Arguments against multiverse theories
+6	Classification schemes
+6.1	Max Tegmark's four levels
+6.1.1	Level I: An extension of our Universe
+6.1.2	Level II: Universes with different physical constants
+6.1.3	Level III: Many-worlds interpretation of quantum mechanics
+6.1.4	Level IV: Ultimate ensemble
+6.2	Brian Greene's nine types
+6.2.1	Quilted
+6.2.2	Inflationary
+6.2.3	Brane
+6.2.4	Cyclic
+6.2.5	Landscape
+6.2.6	Quantum
+6.2.7	Holographic
+6.2.8	Simulated
+6.2.9	Ultimate
+6.3	Cyclic theories
+7	M-theory
+8	Déjà vu theory
+9	Black-hole cosmology
+10	Anthropic principle
+11	Occam's razor
+12	Modal realism
+13	See also
+14	References
+15	Bibliography
+16	External links
+History of the concept
+The concept of multiverses is mentioned many times in ancient Hindu Puranic literature, such as in the Bhagavata Purana:
+
+Every universe is covered by seven layers — earth, water, fire, air, sky, the total energy and false ego — each ten times greater than the previous one. There are innumerable universes besides this one, and although they are unlimitedly large, they move about like atoms in You. Therefore You are called unlimited (Bhagavata Purana 6.16.37)[8][9]
+
+In his book, Opticks (1704), Isaac Newton suggested the idea of a multiverse :
+
+And since Space is divisible in infinitum, and Matter is not necessarily in all places, it may be also allow'd that God is able to create Particles of Matter of several Sizes and Figures, and in several Proportions to Space, and perhaps of different Densities and Forces, and thereby to vary the Laws of Nature, and make Worlds of several sorts in several Parts of the Universe. At least, I see nothing of Contradiction in all this.[10]
+
+In Dublin in 1952, Erwin Schrödinger gave a lecture in which he jocularly warned his audience that what he was about to say might "seem lunatic". He said that when his equations seemed to describe several different histories, these were "not alternatives, but all really happen simultaneously".[11]
+
+The American philosopher and psychologist William James used the term "multiverse" in 1895, but in a different context.[12]
+
+Brief explanation
+The structure of the multiverse, the nature of each universe within it, and the relationships among these universes vary from one multiverse hypothesis to another.
+
+Multiple universes have been hypothesized in cosmology, physics, astronomy, religion, philosophy, transpersonal psychology, and literature, particularly in science fiction and fantasy. In these contexts, parallel universes are also called "alternate universes", "quantum universes", "interpenetrating dimensions", "parallel dimensions", "parallel worlds", "parallel realities", "quantum realities", "alternate realities", "alternate timelines", "alternate dimensions", and "dimensional planes".
+
+The physics community continues to debate the multiverse hypotheses. Prominent physicists are divided in opinion about whether any other universes exist.
+
+Some physicists say the multiverse is not a legitimate topic of scientific inquiry.[13] Concerns have been raised about whether attempts to exempt the multiverse from experimental verification could erode public confidence in science and ultimately damage the study of fundamental physics.[14] Some have argued that the multiverse is a philosophical rather than a scientific hypothesis because it cannot be falsified. The ability to disprove a theory by means of scientific experiment has always been part of the accepted scientific method.[15] Paul Steinhardt has famously argued that no experiment can rule out a theory if the theory provides for all possible outcomes.[16]
+
+In 2007, Nobel laureate Steven Weinberg suggested that if the multiverse existed, "the hope of finding a rational explanation for the precise values of quark masses and other constants of the standard model that we observe in our Big Bang is doomed, for their values would be an accident of the particular part of the multiverse in which we live."[17]
+
+Search for evidence
+Around 2010, scientists such as Stephen M. Feeney analyzed Wilkinson Microwave Anisotropy Probe (WMAP) data and claimed to find evidence suggesting that our universe collided with other (parallel) universes in the distant past.[18][19][20] However, a more thorough analysis of data from the WMAP and from the Planck satellite, which has a resolution 3 times higher than WMAP, did not reveal any statistically significant evidence of such a bubble universe collision.[21][22] In addition, there was no evidence of any gravitational pull of other universes on ours.[23][24]
+
+Proponents and skeptics
+Proponents of one or more of the multiverse hypotheses include Stephen Hawking,[25] Brian Greene,[26][27] Max Tegmark,[28] Alan Guth,[29] Andrei Linde,[30] Michio Kaku,[31] David Deutsch,[32] Leonard Susskind,[33] Alexander Vilenkin,[34] Yasunori Nomura,[35] Raj Pathria,[36] Laura Mersini-Houghton,[37][38] Neil deGrasse Tyson,[39] and Sean Carroll.[40]
+
+Scientists who are generally skeptical of the multiverse hypothesis include: Steven Weinberg,[41] David Gross,[42] Paul Steinhardt,[43] [44] Anna Ijjas [44] Abraham Loeb [44] David Spergel [45] Neil Turok,[46] Viatcheslav Mukhanov,[47] Michael S. Turner,[48] Roger Penrose,[49] George Ellis,[50][51] Joe Silk,[52] Carlo Rovelli,[53] Adam Frank,[54] Marcelo Gleiser,[54] Jim Baggott,[55] and Paul Davies.[56]
+
+Arguments against multiverse theories
+In his 2003 New York Times opinion piece, "A Brief History of the Multiverse", the author and cosmologist Paul Davies offered a variety of arguments that multiverse theories are non-scientific:[57]
+
+For a start, how is the existence of the other universes to be tested? To be sure, all cosmologists accept that there are some regions of the universe that lie beyond the reach of our telescopes, but somewhere on the slippery slope between that and the idea that there are an infinite number of universes, credibility reaches a limit. As one slips down that slope, more and more must be accepted on faith, and less and less is open to scientific verification. Extreme multiverse explanations are therefore reminiscent of theological discussions. Indeed, invoking an infinity of unseen universes to explain the unusual features of the one we do see is just as ad hoc as invoking an unseen Creator. The multiverse theory may be dressed up in scientific language, but in essence it requires the same leap of faith.
+
+— Paul Davies, The New York Times, "A Brief History of the Multiverse"
+George Ellis, writing in August 2011, provided a criticism of the multiverse, and pointed out that it is not a traditional scientific theory. He accepts that the multiverse is thought to exist far beyond the cosmological horizon. He emphasized that it is theorized to be so far away that it's unlikely any evidence will ever be found. Ellis also explained that some theorists do not believe the lack of empirical testability falsifiability is a major concern, but he is opposed to that line of thinking:
+
+Many physicists who talk about the multiverse, especially advocates of the string landscape, do not care much about parallel universes per se. For them, objections to the multiverse as a concept are unimportant. Their theories live or die based on internal consistency and, one hopes, eventual laboratory testing.
+
+Ellis says that scientists have proposed the idea of the multiverse as a way of explaining the nature of existence. He points out that it ultimately leaves those questions unresolved because it is a metaphysical issue that cannot be resolved by empirical science. He argues that observational testing is at the core of science and should not be abandoned:[58]
+
+As skeptical as I am, I think the contemplation of the multiverse is an excellent opportunity to reflect on the nature of science and on the ultimate nature of existence: why we are here.... In looking at this concept, we need an open mind, though not too open. It is a delicate path to tread. Parallel universes may or may not exist; the case is unproved. We are going to have to live with that uncertainty. Nothing is wrong with scientifically based philosophical speculation, which is what multiverse proposals are. But we should name it for what it is.
+
+— George Ellis, Scientific American, "Does the Multiverse Really Exist?"
+Classification schemes
+Max Tegmark and Brian Greene have devised classification schemes for the various theoretical types of multiverses and universes that they might comprise.
+
+Max Tegmark's four levels
+Cosmologist Max Tegmark has provided a taxonomy of universes beyond the familiar observable universe. The four levels of Tegmark's classification are arranged such that subsequent levels can be understood to encompass and expand upon previous levels. They are briefly described below.[59][60]
+
+Level I: An extension of our Universe
+A prediction of chaotic inflation is the existence of an infinite ergodic universe, which, being infinite, must contain Hubble volumes realizing all initial conditions.
+
+Accordingly, an infinite universe will contain an infinite number of Hubble volumes, all having the same physical laws and physical constants. In regard to configurations such as the distribution of matter, almost all will differ from our Hubble volume. However, because there are infinitely many, far beyond the cosmological horizon, there will eventually be Hubble volumes with similar, and even identical, configurations. Tegmark estimates that an identical volume to ours should be about 1010115 meters away from us.[28]
+
+Given infinite space, there would, in fact, be an infinite number of Hubble volumes identical to ours in the universe.[61] This follows directly from the cosmological principle, wherein it is assumed that our Hubble volume is not special or unique.
+
+Level II: Universes with different physical constants
+
+Bubble universes – every disk represents a bubble universe. Our universe is represented by one of the disks.
+Universe 1 to Universe 6 represent bubble universes. Five of them have different physical constants than our universe has.
+In the chaotic inflation theory, which is a variant of the cosmic inflation theory, the multiverse or space as a whole is stretching and will continue doing so forever,[62] but some regions of space stop stretching and form distinct bubbles (like gas pockets in a loaf of rising bread). Such bubbles are embryonic level I multiverses.
+
+Different bubbles may experience different spontaneous symmetry breaking, which results in different properties, such as different physical constants.[61]
+
+Level II also includes John Archibald Wheeler's oscillatory universe theory and Lee Smolin's fecund universes theory.
+
+Level III: Many-worlds interpretation of quantum mechanics
+Hugh Everett III's many-worlds interpretation (MWI) is one of several mainstream interpretations of quantum mechanics.
+
+In brief, one aspect of quantum mechanics is that certain observations cannot be predicted absolutely. Instead, there is a range of possible observations, each with a different probability. According to the MWI, each of these possible observations corresponds to a different universe. Suppose a six-sided die is thrown and that the result of the throw corresponds to a quantum mechanics observable. All six possible ways the die can fall correspond to six different universes.
+
+Tegmark argues that a Level III multiverse does not contain more possibilities in the Hubble volume than a Level I or Level II multiverse. In effect, all the different "worlds" created by "splits" in a Level III multiverse with the same physical constants can be found in some Hubble volume in a Level I multiverse. Tegmark writes that, "The only difference between Level I and Level III is where your doppelgängers reside. In Level I they live elsewhere in good old three-dimensional space. In Level III they live on another quantum branch in infinite-dimensional Hilbert space."
+
+Similarly, all Level II bubble universes with different physical constants can, in effect, be found as "worlds" created by "splits" at the moment of spontaneous symmetry breaking in a Level III multiverse.[61] According to Yasunori Nomura,[35] Raphael Bousso, and Leonard Susskind,[33] this is because global spacetime appearing in the (eternally) inflating multiverse is a redundant concept. This implies that the multiverses of Levels I, II, and III are, in fact, the same thing. This hypothesis is referred to as "Multiverse = Quantum Many Worlds".
+
+Related to the many-worlds idea are Richard Feynman's multiple histories interpretation and H. Dieter Zeh's many-minds interpretation.
+
+Level IV: Ultimate ensemble
+The ultimate mathematical universe hypothesis is Tegmark's own hypothesis.[63]
+
+This level considers all universes to be equally real which can be described by different mathematical structures.
+
+Tegmark writes:
+
+Abstract mathematics is so general that any Theory Of Everything (TOE) which is definable in purely formal terms (independent of vague human terminology) is also a mathematical structure. For instance, a TOE involving a set of different types of entities (denoted by words, say) and relations between them (denoted by additional words) is nothing but what mathematicians call a set-theoretical model, and one can generally find a formal system that it is a model of.
+
+He argues that this "implies that any conceivable parallel universe theory can be described at Level IV" and "subsumes all other ensembles, therefore brings closure to the hierarchy of multiverses, and there cannot be, say, a Level V."[28]
+
+Jürgen Schmidhuber, however, says that the set of mathematical structures is not even well-defined and that it admits only universe representations describable by constructive mathematics—that is, computer programs.
+
+Schmidhuber explicitly includes universe representations describable by non-halting programs whose output bits converge after finite time, although the convergence time itself may not be predictable by a halting program, due to the undecidability of the halting problem.[64][65][66] He also explicitly discusses the more restricted ensemble of quickly computable universes.[67]
+
+Brian Greene's nine types
+The American theoretical physicist and string theorist Brian Greene discussed nine types of multiverses:[68]
+
+Quilted
+The quilted multiverse works only in an infinite universe. With an infinite amount of space, every possible event will occur an infinite number of times. However, the speed of light prevents us from being aware of these other identical areas.
+
+Inflationary
+The inflationary multiverse is composed of various pockets in which inflation fields collapse and form new universes.
+
+Brane
+The brane multiverse version postulates that our entire universe exists on a membrane (brane) which floats in a higher dimension or "bulk". In this bulk, there are other membranes with their own universes. These universes can interact with one another, and when they collide, the violence and energy produced is more than enough to give rise to a big bang. The branes float or drift near each other in the bulk, and every few trillion years, attracted by gravity or some other force we do not understand, collide and bang into each other. This repeated contact gives rise to multiple or "cyclic" big bangs. This particular hypothesis falls under the string theory umbrella as it requires extra spatial dimensions.
+
+Cyclic
+The cyclic multiverse (via the ekpyrotic scenario) has multiple branes (each a universe) that have collided, causing Big Bangs. The universes bounce back and pass through time until they are pulled back together and again collide, destroying the old contents and creating them anew.
+
+Landscape
+The landscape multiverse relies on string theory's Calabi–Yau spaces. Quantum fluctuations drop the shapes to a lower energy level, creating a pocket with a set of laws different from that of the surrounding space.
+
+Quantum
+The quantum multiverse creates a new universe when a diversion in events occurs, as in the many-worlds interpretation of quantum mechanics.
+
+Holographic
+The holographic multiverse is derived from the theory that the surface area of a space can simulate the volume of the region.
+
+Simulated
+The simulated multiverse exists on complex computer systems that simulate entire universes.
+
+Ultimate
+The ultimate multiverse contains every mathematically possible universe under different laws of physics.
+
+Cyclic theories
+Main article: Cyclic model
+In several theories, there is a series of infinite, self-sustaining cycles (for example, an eternity of Big Bangs, Big Crunches, and/or Big Freezes).
+
+M-theory
+See also: Introduction to M-theory, M-theory, Brane cosmology, and String theory landscape
+A multiverse of a somewhat different kind has been envisaged within string theory and its higher-dimensional extension, M-theory.[69]
+
+These theories require the presence of 10 or 11 spacetime dimensions respectively. The extra 6 or 7 dimensions may either be compactified on a very small scale, or our universe may simply be localized on a dynamical (3+1)-dimensional object, a D3-brane. This opens up the possibility that there are other branes which could support other universes.[70][71]
+
+Déjà vu theory
+Text document with red question mark.svg
+Some of this article's listed sources may not be reliable. Please help this article by looking for better, more reliable sources. Unreliable citations may be challenged or deleted. (February 2018) (Learn how and when to remove this template message)
+Experts[who?] say déjà vu[72] (i.e. already seen) might be explained by the Multiverse[citation needed]. This is because the corresponding event has already happened on a parallel earth and because of that we have already experienced the current situation. Alternative explanations associate deja vu with past life memories, but if the glimpse of the current situation in a past life having surroundings of the current time and things is impossible, then it can be the vision of the same thing in another Earth (parallel Earth) in a different time.[73]
+
+Black-hole cosmology
+Main article: Black-hole cosmology
+Black-hole cosmology is a cosmological model in which the observable universe is the interior of a black hole existing as one of possibly many universes inside a larger universe.[citation needed] This includes the theory of white holes, which are on the opposite side of space-time.
+
+Anthropic principle
+Main article: Anthropic principle
+The concept of other universes has been proposed to explain how our own universe appears to be fine-tuned for conscious life as we experience it.
+
+If there were a large (possibly infinite) number of universes, each with possibly different physical laws (or different fundamental physical constants), then some of these universes (even if very few) would have the combination of laws and fundamental parameters that are suitable for the development of matter, astronomical structures, elemental diversity, stars, and planets that can exist long enough for life to emerge and evolve.
+
+The weak anthropic principle could then be applied to conclude that we (as conscious beings) would only exist in one of those few universes that happened to be finely tuned, permitting the existence of life with developed consciousness. Thus, while the probability might be extremely small that any particular universe would have the requisite conditions for life (as we understand life), those conditions do not require intelligent design as an explanation for the conditions in the Universe that promote our existence in it.
+
+An early form of this reasoning is evident in Arthur Schopenhauer's 1844 work "Von der Nichtigkeit und dem Leiden des Lebens", where he argues that our world must be the worst of all possible worlds, because if it were significantly worse in any respect it could not continue to exist.[74]
+
+Occam's razor
+Proponents and critics disagree about how to apply Occam's razor. Critics argue that to postulate an almost infinite number of unobservable universes, just to explain our own universe, is contrary to Occam's razor.[75] However, proponents argue that in terms of Kolmogorov complexity the proposed multiverse is simpler than a single idiosyncratic universe.[61]
+
+For example, multiverse proponent Max Tegmark argues:
+
+[A]n entire ensemble is often much simpler than one of its members. This principle can be stated more formally using the notion of algorithmic information content. The algorithmic information content in a number is, roughly speaking, the length of the shortest computer program that will produce that number as output. For example, consider the set of all integers. Which is simpler, the whole set or just one number? Naively, you might think that a single number is simpler, but the entire set can be generated by quite a trivial computer program, whereas a single number can be hugely long. Therefore, the whole set is actually simpler... (Similarly), the higher-level multiverses are simpler. Going from our universe to the Level I multiverse eliminates the need to specify initial conditions, upgrading to Level II eliminates the need to specify physical constants, and the Level IV multiverse eliminates the need to specify anything at all.... A common feature of all four multiverse levels is that the simplest and arguably most elegant theory involves parallel universes by default. To deny the existence of those universes, one needs to complicate the theory by adding experimentally unsupported processes and ad hoc postulates: finite space, wave function collapse and ontological asymmetry. Our judgment therefore comes down to which we find more wasteful and inelegant: many worlds or many words. Perhaps we will gradually get used to the weird ways of our cosmos and find its strangeness to be part of its charm.[61][76]
+
+— Max Tegmark
+Modal realism
+Possible worlds are a way of explaining probability and hypothetical statements. Some philosophers, such as David Lewis, believe that all possible worlds exist and that they are just as real as the world we live in (a position known as modal realism).[77]
+
+See also
+A Universe from Nothing
+Beyond black holes
+Cosmogony
+Hugh Everett III
+The Fabric of Reality
+Impossible world
+Laura Mersini-Houghton
+Copenhagen interpretation
+Many-worlds interpretation
+Holographic principle
+Modal realism
+Multiverse (religion)
+Nature timeline
+Parallel universe (fiction)
+Roger Penrose
+Philosophy of physics
+Philosophy of space and time
+Reductionism
+Martin Rees, Astronomer Royal
+Simulated reality
+Ultimate fate of the universe
+Hindu Cosmology
+Sliders
+References
+ "Planck reveals an almost perfect Universe".
+ "Space in Images".
+ "Multiple universes".
+ "Multiple universes principle".
+ "Multiverses: Do Other Universes Exist?".
+ "Split the Universe".
+ "Hidden Portals in Earth's Magnetic Field".
+ Bryan E. Penprase. The Power of Stars. Springer. p. 137.
+ Mirabello, Mark. A Traveler's Guide to the Afterlife: Traditions and Beliefs on Death, Dying, and What Lies Beyond. Inner Traditions/Bear & Co. p. 23.
+ https://www.gutenberg.org/files/33504/33504-h/33504-h.htm pp 403-404
+ "Erwin Schrödinger and the Quantum Revolution by John Gribbin: review".
+ James, William, The Will to Believe, 1895; and earlier in 1895, as cited in OED's new 2003 entry for "multiverse": James, William (October 1895), "Is Life Worth Living?", Internat. Jrnl. Ethics, 6: 10, doi:10.1086/205378, Visible nature is all plasticity and indifference, a multiverse, as one might call it, and not a universe.
+ Kragh, H. (2009). "Contemporary History of Cosmology and the Controversy over the Multiverse". Annals of Science. 66 (4): 529–551. doi:10.1080/00033790903047725.
+ Ellis, George; Silk, Joe (16 December 2014). "Scientific Method: Defend the Integrity of Physics". Nature. 516: 321–323. Bibcode:2014Natur.516..321E. doi:10.1038/516321a. PMID 25519115.
+ "Feynman on Scientific Method". YouTube. Retrieved 28 July 2012.
+ Steinhardt, Paul (3 June 2014). "Big Bang blunder bursts the Multiverse bubble". Nature. 510: 9. Bibcode:2014Natur.510....9S. doi:10.1038/510009a. PMID 24899270.
+ Weinberg, Steven (20 November 2007). "Physics: What we do and don't know". The New York Review of Books.
+ "Astronomers Find First Evidence Of Other Universe". technologyreview.com. 13 December 2010. Retrieved 12 October 2013.
+ Max Tegmark; Alexander Vilenkin (19 July 2011). "The Case for Parallel Universes". Retrieved 12 October 2013.
+ "Is Our Universe Inside a Bubble? First Observational Test of the 'Multiverse'". Science Daily. sciencedaily.com. 3 Aug 2011. Retrieved 12 October 2013.
+ Feeney, Stephen M.; et al. (2011). "First observational tests of eternal inflation: Analysis methods and WMAP 7-year results". Physical Review D. 84 (4): 43507. arXiv:1012.3667 Freely accessible. Bibcode:2011PhRvD..84d3507F. doi:10.1103/PhysRevD.84.043507.
+ Feeney; et al. (2011). "First observational tests of eternal inflation". Physical Review Letters. 107 (7): 071301. arXiv:1012.1995 Freely accessible. Bibcode:2011PhRvL.107g1301F. doi:10.1103/PhysRevLett.107.071301. PMID 21902380.. Bousso, Raphael; Harlow, Daniel; Senatore, Leonardo (2013). "Inflation after False Vacuum Decay: Observational Prospects after Planck". Physical Review D. 91 (8): 083527. arXiv:1309.4060 Freely accessible. Bibcode:2015PhRvD..91h3527B. doi:10.1103/PhysRevD.91.083527.
+ Collaboration, Planck; Ade, P. A. R.; Aghanim, N.; Arnaud, M.; Ashdown, M.; Aumont, J.; Baccigalupi, C.; Balbi, A.; Banday, A. J.; Barreiro, R. B.; Battaner, E.; Benabed, K.; Benoit-Levy, A.; Bernard, J. -P.; Bersanelli, M.; Bielewicz, P.; Bikmaev, I.; Bobin, J.; Bock, J. J.; Bonaldi, A.; Bond, J. R.; Borrill, J.; Bouchet, F. R.; Burigana, C.; Butler, R. C.; Cabella, P.; Cardoso, J. -F.; Catalano, A.; Chamballu, A.; et al. (2013-03-20). "Planck intermediate results. XIII. Constraints on peculiar velocities". Astronomy & Astrophysics. 561: A97. arXiv:1303.5090 Freely accessible. Bibcode:2014A&A...561A..97P. doi:10.1051/0004-6361/201321299.
+ "Blow for 'dark flow' in Planck's new view of the cosmos". New Scientist. 3 April 2013. Retrieved 10 March 2014.
+ Universe or Multiverse. p. 19. ISBN 9780521848411. Some physicists would prefer to believe that string theory, or M-theory, will answer these questions and uniquely predict the features of the Universe. Others adopt the view that the initial state of the Universe is prescribed by an outside agency, code-named God, or that there are many universes, with ours being picked out by the anthropic principle. Hawking argues that string theory is unlikely to predict the distinctive features of the Universe. But neither is he is an advocate of God. He therefore opts for the last approach, favoring the type of multiverse which arises naturally within the context of his own work in quantum cosmology.
+ Greene, Brian (24 January 2011). "A Physicist Explains Why Parallel Universes May Exist". npr.org (Interview). Interview with Terry Gross. Archived from the original on 13 September 2014. Retrieved 12 September 2014.
+ Greene, Brian (24 January 2011). "Transcript:A Physicist Explains Why Parallel Universes May Exist". npr.org (Interview). Interview with Terry Gross. Archived from the original on 13 September 2014. Retrieved 12 September 2014.
+ Tegmark, Max (2003). "Parallel Universes". In "Science and Ultimate Reality: from Quantum to Cosmos", honoring John Wheeler's th birthday. J. D. Barrow, P.C.W. Davies, & C.L. Harper eds. v1. Cambridge University Press. arXiv:astro-ph/0302131 Freely accessible. Bibcode:2003SciAm.288e..40T. doi:10.1038/scientificamerican0503-40. Tegmark, M (May 2003). "Parallel universes. Not just a staple of science fiction, other universes are a direct implication of cosmological observations". Scientific American. Vol. 288. pp. 40–51. arXiv:astro-ph/0302131 Freely accessible. Bibcode:2003SciAm.288e..40T. doi:10.1038/scientificamerican0503-40. PMID 12701329.
+ "Alan Guth: Inflationary Cosmology: Is Our Universe Part of a Multiverse?". YouTube. Retrieved 6 October 2014.
+ Linde, Andrei (27 January 2012). "Inflation in Supergravity and String Theory: Brief History of the Multiverse" (PDF). ctc.cam.ac.uk. Archived from the original on 13 September 2014. Retrieved 13 September 2014.
+ Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos
+ David Deutsch (1997). "The Ends of the Universe". The Fabric of Reality: The Science of Parallel Universes—and Its Implications. London: Penguin Press. ISBN 0-7139-9061-9.
+ Bousso, R.; Susskind, L. (2012). "Multiverse interpretation of quantum mechanics". Physical Review D. 85 (4). arXiv:1105.3796 Freely accessible. Bibcode:2012PhRvD..85d5007B. doi:10.1103/PhysRevD.85.045007.
+ Vilenkin, Alex (2007). Many Worlds in One: The Search for Other Universes. ISBN 9780374707149.
+ Nomura, Y. (2011). "Physical theories, eternal inflation, and the quantum universe". Journal of High Energy Physics. 2011 (11). arXiv:1104.2324 Freely accessible. Bibcode:2011JHEP...11..063N. doi:10.1007/JHEP11(2011)063.
+ Pathria, R. K. (1972). "The Universe as a Black Hole". Nature. 240 (5379): 298–299. Bibcode:1972Natur.240..298P. doi:10.1038/240298a0.
+ Catchpole, Heather (24 November 2009). "Weird data suggests something big beyond the edge of the universe". Cosmos. Archived from the original on 14 July 2014. Retrieved 27 July 2014.
+ Moon, Timur (19 May 2013). "Planck Space Data Yields Evidence of Universes Beyond Our Own". International Business Times. Retrieved 27 July 2014.
+ Freeman, David (4 March 2014). "Why Revive 'Cosmos?' Neil DeGrasse Tyson Says Just About Everything We Know Has Changed". huffingtonpost.com. Archived from the original on 13 September 2014. Retrieved 12 September 2014.
+ Sean Carroll (18 October 2011). "Welcome to the Multiverse". Discover. Retrieved 5 May 2015.
+ Falk, Dan (17 March 2015). "Science's Path from Myth to Multiverse". Quanta Magazine. New York City: Simons Foundation.
+ Davies, Paul (2008). "Many Scientists Hate the Multiverse Idea". The Goldilocks Enigma: Why Is the Universe Just Right for Life?. Houghton Mifflin Harcourt. p. 207. ISBN 9780547348469.
+ Steinhardt, Paul (9 March 2014). "Theories of Anything". edge.org. 2014 : WHAT SCIENTIFIC IDEA IS READY FOR RETIREMENT?. Archived from the original on 10 March 2014. Retrieved 9 March 2014.
+ Ijjas, Anna; Loeb, Abraham; Steinhardt, Paul (February 2017), "Cosmic Inflation Theory Faces Challenges", Scientific American
+ "Is Nature Simple? 2018 Breakthrough Prize Symposium Panel". YouTube. Retrieved Jan 14, 2018.
+ Gibbons, G.W.; Turok, Neil (2008). "The Measure Problem in Cosmology". Phys. Rev. D. 77 (6): 063516. arXiv:hep-th/0609095 Freely accessible. Bibcode:2008PhRvD..77f3516G. doi:10.1103/PhysRevD.77.063516.
+ Mukhanov, Viatcheslav (2014). "Inflation without Selfreproduction". Fortschritte der Physik. 63 (1): 36–41. arXiv:1409.2335 Freely accessible. Bibcode:2015ForPh..63...36M. doi:10.1002/prop.201400074.
+ Woit, Peter (9 June 2015). "A Crisis at the (Western) Edge of Physics". Not Even Wrong.
+ Woit, Peter (14 June 2015). "CMB @ 50". Not Even Wrong.
+ Ellis, George F. R. (1 August 2011). "Does the Multiverse Really Exist?". Scientific American. Vol. 305 no. 2. New York City: Nature Publishing Group. pp. 38–43. Bibcode:2011SciAm.305a..38E. doi:10.1038/scientificamerican0811-38. ISSN 0036-8733. LCCN 04017574. OCLC 828582568. Retrieved 12 September 2014. (Subscription required (help)).
+ Ellis, George (2012). "The Multiverse: Conjecture, Proof, and Science" (PDF). Slides for a talk at Nicolai Fest Golm 2012. Archived (PDF) from the original on 13 September 2014. Retrieved 12 September 2014.
+ Ellis, George; Silk, Joe (16 December 2014), "Scientific Method: Defend the Integrity of Physics", Nature, 516: 321–323, Bibcode:2014Natur.516..321E, doi:10.1038/516321a, PMID 25519115
+ Scoles; Sarah (19 April 2016), "Can Physics Ever Prove the Multiverse is Real", Smithsonian.com
+ Frank, Adam; Gleiser, Marcelo (5 June 2015). "A Crisis at the Edge of Physics". New York Times.
+ Baggott, Jim (1 August 2013). Farewell to Reality: How Modern Physics Has Betrayed the Search for Scientific Truth. Pegasus. ISBN 978-1-60598-472-8.
+ Davies, Paul (12 April 2003). "A Brief History of the Multiverse". New York Times.
+ Davies, Paul (12 April 2003). "A Brief History of the Multiverse". New York Times. Retrieved 16 August 2011.
+ Ellis, George F. R. (1 August 2011). "Does the Multiverse Really Exist?". Scientific American. Vol. 305 no. 2. New York City: Nature Publishing Group. pp. 38–43. Bibcode:2011SciAm.305a..38E. doi:10.1038/scientificamerican0811-38. ISSN 0036-8733. LCCN 04017574. OCLC 828582568. Retrieved 16 August 2011. (Subscription required (help)).
+ Tegmark, Max (May 2003). "Parallel Universes". Scientific American. Vol. 288. pp. 40–51. arXiv:astro-ph/0302131 Freely accessible. Bibcode:2003SciAm.288e..40T. doi:10.1038/scientificamerican0503-40. PMID 12701329.
+ Tegmark, Max (23 January 2003). Parallel Universes (PDF). Retrieved 7 February 2006.
+ "Parallel universes. Not just a staple of science fiction, other universes are a direct implication of cosmological observations.", Tegmark M., Sci Am. 2003 May;288(5):40–51.
+ "First Second of the Big Bang". How The Universe Works 3. 2014. Discovery Science.
+ Tegmark, Max (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality. Knopf Doubleday Publishing Group. ISBN 9780307599803.
+ J. Schmidhuber (1997): A Computer Scientist's View of Life, the Universe, and Everything. Lecture Notes in Computer Science, pp. 201–208, Springer: IDSIA – Dalle Molle Institute for Artificial Intelligence
+ Schmidhuber, Juergen (2000). "Algorithmic Theories of Everything". Sections in: Hierarchies of generalized Kolmogorov complexities and nonenumerable universal measures computable in the limit. International Journal of Foundations of Computer Science ():587-612 (2002). Section 6 in: the Speed Prior: A New Simplicity Measure Yielding Near-Optimal Computable Predictions. in J. Kivinen and R. H. Sloan, editors, Proceedings of the 15th Annual Conference on Computational Learning Theory(COLT 2002), Sydney, Australia, Lecture Notes in Artificial Intelligence, pages 216-228. Springer, 2002. 13 (4): 1–5. arXiv:quant-ph/0011122 Freely accessible. Bibcode:2000quant.ph.11122S.
+ J. Schmidhuber (2002): Hierarchies of generalized Kolmogorov complexities and nonenumerable universal measures computable in the limit. International Journal of Foundations of Computer Science 13(4):587–612 IDSIA – Dalle Molle Institute for Artificial Intelligence
+ J. Schmidhuber (2002): The Speed Prior: A New Simplicity Measure Yielding Near-Optimal Computable Predictions. Proc. 15th Annual Conference on Computational Learning Theory (COLT 2002), Sydney, Australia, Lecture Notes in Artificial Intelligence, pp. 216–228. Springer: IDSIA – Dalle Molle Institute for Artificial Intelligence
+ In The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos, 2011
+ Weinberg, Steven (2005). "Living in the Multiverse". arXiv:hep-th/0511037v1 Freely accessible.
+ Richard J Szabo, An introduction to string theory and D-brane dynamics (2004)
+ Maurizio Gasperini, Elements of String Cosmology (2007)
+ "Déjà vu". Wikipedia. 2018-02-14.
+ "Parallel Earths or Multiverse – Is it Possible?". The Flash Point. 2017-06-10. Retrieved 2018-02-16.
+ Arthur Schopenhauer, "Die Welt als Wille und Vorstellung," supplement to the 4th book "Von der Nichtigkeit und dem Leiden des Lebens". see also R.B. Haldane and J. Kemp's translation "On the Vanity and Suffering of Life" pp 395-6
+ Trinh, Xuan Thuan (2006). Staune, Jean, ed. Science & the Search for Meaning: Perspectives from International Scientists. West Conshohocken, PA: Templeton Foundation. p. 186. ISBN 1-59947-102-7.
+ "Parallel universes. Not just a staple of science fiction, other universes are a direct implication of cosmological observations". Scientific American. Vol. 288 no. 5. May 2003. pp. 40–51. arXiv:astro-ph/0302131 Freely accessible. Bibcode:2003SciAm.288e..40T. doi:10.1038/scientificamerican0503-40. PMID 12701329.
+ Lewis, David (1986). On the Plurality of Worlds. Basil Blackwell. ISBN 0-631-22426-2.
+Bibliography
+Carr, Bernard. Universe or Multiverse? (2007 ed.). Cambridge University Press.
+Deutsch, David (1985). "Quantum theory, the Church–Turing principle and the universal quantum computer" (PDF). Proceedings of the Royal Society of London A. 400 (1818): 97–117. Bibcode:1985RSPSA.400...97D. doi:10.1098/rspa.1985.0070.
+Ellis, George F.R.; William R. Stoeger; Stoeger, W. R. (2004). "Multiverses and physical cosmology". Monthly Notices of the Royal Astronomical Society. 347 (3): 921–936. arXiv:astro-ph/0305292 Freely accessible. Bibcode:2004MNRAS.347..921E. doi:10.1111/j.1365-2966.2004.07261.x.
+Manly, Steven (2011). Visions of the Multiverse (1st ed.). Pompton Plains, New Jersey: New Page Books. ISBN 9781601631299.
+Surya-Siddhanta: A Text Book of Hindu Astronomy by Ebenezer Burgess, ed. Phanindralal Gangooly (1989/1997) with a 45-page commentary by P. C. Sengupta (1935).
+External links
+	Look up multiverse in Wiktionary, the free dictionary.
+	Wikiquote has quotations related to: Multiverse
+	Wikimedia Commons has media related to Multiverse.
+Interview with Tufts cosmologist Alex Vilenkin on his new book, "Many Worlds in One: The Search for Other Universes" on the podcast and public radio interview program ThoughtCast.
+Joseph Pine II about Multiverse, Presentation at Mobile Monday Amsterdam, 2008
+Multiverse – Radio-discussion on BBC Four with Melvyn Bragg
+What Is The Multiverse? A layman's explanation
+[show] v t e
+Time travel
+[show] v t e
+Quantum gravity
+[show] v t e
+Earth's location in the Universe
+Crab Nebula.jpgAstronomy portal Ilc 9yr moll4096.pngCosmology portal Stylised atom with three Bohr model orbits and stylised nucleus.svgPhysics portal Earth-moon.jpgSpace portal
+Categories: Physical cosmologyScience fiction themesQuantum mechanicsAstronomical hypothesesAnthropic principleHypothetical astronomical objects
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikiquote
+
+Languages
+العربية
+Español
+한국어
+हिन्दी
+Bahasa Indonesia
+Русский
+اردو
+Tiếng Việt
+中文
+40 more
+Edit links
+This page was last edited on 4 March 2018, at 05:58.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewEnable previews
+Wikimedia Foundation Powered by MediaWiki
